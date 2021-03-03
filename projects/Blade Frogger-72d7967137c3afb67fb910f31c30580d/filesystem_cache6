@@ -1,0 +1,60 @@
+be5a452dd999bd920376c85c99f0f384
+::res://::1614791572
+default_env.tres::Environment::1614779857::0::1::::<><>::
+icon.png::StreamTexture::1614765680::1614765708::1::::<><>::
+::res://Blade Frogger Assets/::1614767800
+::res://Blade Frogger Assets/Audio/::1614767808
+Cyber_Space_Hunters.ogg::AudioStreamOGGVorbis::1594641716::1614767808::1::::<><>::
+win.ogg::AudioStreamOGGVorbis::1594642220::1614767808::1::::<><>::
+::res://Blade Frogger Assets/Car/::1614767809
+CarWeapons_preview.png::StreamTexture::1593268332::1614767808::1::::<><>::
+Grey1.png::StreamTexture::1593421816::1614767809::1::::<><>::
+Grey2.png::StreamTexture::1593421920::1614767809::1::::<><>::
+Yellow1.png::StreamTexture::1593421822::1614767809::1::::<><>::
+Yellow2.png::StreamTexture::1593421898::1614767809::1::::<><>::
+::res://Blade Frogger Assets/Font/::1614767799
+BLADRMF_.TTF::DynamicFontData::1594639930::0::1::::<><>::
+::res://Blade Frogger Assets/Level/::1614767810
+Bar.png::StreamTexture::1593503640::1614767809::1::::<><>::
+Building.png::StreamTexture::1593268332::1614767809::1::::<><>::
+Cars_final.png::StreamTexture::1593268332::1614767809::1::::<><>::
+Interior-Walls-Beige.png::StreamTexture::1593268332::1614767809::1::::<><>::
+Logos.png::StreamTexture::1593268332::1614767810::1::::<><>::
+Objects.png::StreamTexture::1593268332::1614767810::1::::<><>::
+Sidewalk_dark.png::StreamTexture::1593268332::1614767810::1::::<><>::
+Street.png::StreamTexture::1593413162::1614767810::1::::<><>::
+::res://Blade Frogger Assets/Player/::1614767810
+Walk_Down_1.png::StreamTexture::1593411460::1614767810::1::::<><>::
+Walk_Down_2.png::StreamTexture::1593411470::1614767810::1::::<><>::
+Walk_Down_3.png::StreamTexture::1593411478::1614767810::1::::<><>::
+Walk_Down_4.png::StreamTexture::1593411486::1614767810::1::::<><>::
+Walk_Down_5.png::StreamTexture::1593411492::1614767810::1::::<><>::
+Walk_Down_6.png::StreamTexture::1593411502::1614767810::1::::<><>::
+Walk_Down_7.png::StreamTexture::1593411512::1614767810::1::::<><>::
+Walk_Down_8.png::StreamTexture::1593411518::1614767807::1::::<><>::
+Walk_Down_9.png::StreamTexture::1593411526::1614767807::1::::<><>::
+Walk_Side_1.png::StreamTexture::1593411594::1614767807::1::::<><>::
+Walk_Side_2.png::StreamTexture::1593411602::1614767807::1::::<><>::
+Walk_Side_3.png::StreamTexture::1593411608::1614767807::1::::<><>::
+Walk_Side_4.png::StreamTexture::1593411618::1614767807::1::::<><>::
+Walk_Side_5.png::StreamTexture::1593411626::1614767807::1::::<><>::
+Walk_Side_6.png::StreamTexture::1593411632::1614767807::1::::<><>::
+Walk_Side_7.png::StreamTexture::1593411640::1614767807::1::::<><>::
+Walk_Side_8.png::StreamTexture::1593411648::1614767807::1::::<><>::
+Walk_Side_9.png::StreamTexture::1593411656::1614767807::1::::<><>::
+Walk_Up_1.png::StreamTexture::1593411698::1614767807::1::::<><>::
+Walk_Up_2.png::StreamTexture::1593411704::1614767807::1::::<><>::
+Walk_Up_3.png::StreamTexture::1593411710::1614767807::1::::<><>::
+Walk_Up_4.png::StreamTexture::1593411718::1614767807::1::::<><>::
+Walk_Up_5.png::StreamTexture::1593411724::1614767808::1::::<><>::
+Walk_Up_6.png::StreamTexture::1593411732::1614767808::1::::<><>::
+Walk_Up_7.png::StreamTexture::1593411740::1614767808::1::::<><>::
+Walk_Up_8.png::StreamTexture::1593411748::1614767808::1::::<><>::
+Walk_Up_9.png::StreamTexture::1593411758::1614767808::1::::<><>::
+::res://Blade Frogger Assets/Screens/::1614767808
+SideWalkTexture.png::StreamTexture::1594642642::1614767808::1::::<><>::
+::res://Car/::1614779857
+Car.tscn::PackedScene::1614779857::0::1::::<><>::res://Blade Frogger Assets/Car/Yellow1.png
+::res://Player/::1614779857
+Player.gd::GDScript::1614779857::0::1::::<>KinematicBody2D<>::
+Player.tscn::PackedScene::1614779857::0::1::::<><>::res://Blade Frogger Assets/Player/Walk_Down_1.png<>res://Player/Player.gd
