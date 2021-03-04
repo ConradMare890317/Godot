@@ -1,3 +1,7 @@
+res://Car/Car.gd
+res://Car/Car.tscn
+res://GameScreen/GameScreen.tscn
+res://Level/Level.tscn
 res://Player/Player.gd
 res://Player/Player.tscn
 res://default_env.tres

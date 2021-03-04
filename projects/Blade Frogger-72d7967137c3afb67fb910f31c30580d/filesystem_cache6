@@ -1,6 +1,6 @@
 be5a452dd999bd920376c85c99f0f384
-::res://::1614791572
-default_env.tres::Environment::1614779857::0::1::::<><>::
+::res://::1614862323
+default_env.tres::Environment::1614839882::0::1::::<><>::
 icon.png::StreamTexture::1614765680::1614765708::1::::<><>::
 ::res://Blade Frogger Assets/::1614767800
 ::res://Blade Frogger Assets/Audio/::1614767808
@@ -55,6 +55,6 @@ Walk_Up_9.png::StreamTexture::1593411758::1614767808::1::::<><>::
 SideWalkTexture.png::StreamTexture::1594642642::1614767808::1::::<><>::
 ::res://Car/::1614779857
 Car.tscn::PackedScene::1614779857::0::1::::<><>::res://Blade Frogger Assets/Car/Yellow1.png
-::res://Player/::1614779857
-Player.gd::GDScript::1614779857::0::1::::<>KinematicBody2D<>::
-Player.tscn::PackedScene::1614779857::0::1::::<><>::res://Blade Frogger Assets/Player/Walk_Down_1.png<>res://Player/Player.gd
+::res://Player/::1614839882
+Player.gd::GDScript::1614839879::0::1::::<>KinematicBody2D<>::
+Player.tscn::PackedScene::1614839882::0::1::::<><>::res://Blade Frogger Assets/Player/Walk_Down_1.png<>res://Player/Player.gd<>res://Blade Frogger Assets/Player/Walk_Down_8.png<>res://Blade Frogger Assets/Player/Walk_Down_7.png<>res://Blade Frogger Assets/Player/Walk_Down_6.png<>res://Blade Frogger Assets/Player/Walk_Down_4.png<>res://Blade Frogger Assets/Player/Walk_Down_9.png<>res://Blade Frogger Assets/Player/Walk_Down_5.png<>res://Blade Frogger Assets/Player/Walk_Down_2.png<>res://Blade Frogger Assets/Player/Walk_Down_3.png<>res://Blade Frogger Assets/Player/Walk_Side_2.png<>res://Blade Frogger Assets/Player/Walk_Side_5.png<>res://Blade Frogger Assets/Player/Walk_Side_6.png<>res://Blade Frogger Assets/Player/Walk_Side_7.png<>res://Blade Frogger Assets/Player/Walk_Up_8.png<>res://Blade Frogger Assets/Player/Walk_Up_9.png<>res://Blade Frogger Assets/Player/Walk_Side_4.png<>res://Blade Frogger Assets/Player/Walk_Side_1.png<>res://Blade Frogger Assets/Player/Walk_Side_8.png<>res://Blade Frogger Assets/Player/Walk_Up_1.png<>res://Blade Frogger Assets/Player/Walk_Side_9.png<>res://Blade Frogger Assets/Player/Walk_Up_2.png<>res://Blade Frogger Assets/Player/Walk_Up_5.png<>res://Blade Frogger Assets/Player/Walk_Up_4.png<>res://Blade Frogger Assets/Player/Walk_Side_3.png<>res://Blade Frogger Assets/Player/Walk_Up_6.png<>res://Blade Frogger Assets/Player/Walk_Up_3.png<>res://Blade Frogger Assets/Player/Walk_Up_7.png
