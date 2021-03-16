@@ -16,7 +16,7 @@
 [ext_resource path="res://VegetableRain_Assets/Audio/07 - Town.ogg" type="AudioStream" id=14]
 
 [sub_resource type="SpatialMaterial" id=1]
-albedo_color = Color( 0.12549, 0.521569, 0.298039, 1 )
+albedo_color = Color( 0.376471, 0.929412, 0.0941176, 1 )
 
 [node name="Level" type="Spatial"]
 script = ExtResource( 8 )
@@ -2770,10 +2770,11 @@ width = 10.6473
 depth = 0.234934
 
 [node name="Platform" type="CSGBox" parent="Level"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0239773, -0.17608, 0.0317645 )
 use_collision = true
-width = 10.0
+width = 18.6099
 height = 0.1
-depth = 10.0
+depth = 18.4207
 material = SubResource( 1 )
 
 [node name="Timers" type="Node" parent="."]
@@ -2821,7 +2822,8 @@ shadow_enabled = true
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 14 )
-autoplay = true
+volume_db = -80.0
+pitch_scale = 0.84
 [connection signal="timeout" from="Timers/Timer1" to="." method="_on_Timer1_timeout"]
 [connection signal="timeout" from="Timers/Timer2" to="." method="_on_Timer2_timeout"]
 [connection signal="timeout" from="Timers/Timer3" to="." method="_on_Timer3_timeout"]
