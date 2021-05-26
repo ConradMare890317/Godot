@@ -16,7 +16,7 @@
 [ext_resource path="res://VegetableRain_Assets/Audio/07 - Town.ogg" type="AudioStream" id=14]
 
 [sub_resource type="SpatialMaterial" id=1]
-albedo_color = Color( 0.376471, 0.929412, 0.0941176, 1 )
+albedo_color = Color( 0.2, 0.403922, 0.0901961, 1 )
 
 [node name="Level" type="Spatial"]
 script = ExtResource( 8 )
@@ -48,7 +48,7 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, -3.16943 )
 transform = Transform( 0.98023, 0, -0.197863, -0.0175063, 0.996078, -0.0867279, 0.197087, 0.0884771, 0.976385, 3, 0, 2.72956 )
 
 [node name="Tree8" parent="Trees" instance=ExtResource( 5 )]
-transform = Transform( 0.941029, -0.0128975, -0.338079, -0.0175063, 0.996078, -0.0867279, 0.337872, 0.087532, 0.937113, -0.0931454, 0, 4.32454 )
+transform = Transform( 0.941029, -0.0128975, -0.338079, -0.0175063, 0.996078, -0.0867279, 0.337872, 0.087532, 0.937113, -0.0455246, 0, 4.32454 )
 
 [node name="GrassStones" type="Spatial" parent="."]
 
@@ -2738,8 +2738,10 @@ transform = Transform( -1.38643, -0.100344, -1.43797, -0.362817, 1.95521, 0.2133
 transform = Transform( 1.0371, 0.00582537, 1.71008, -0.362817, 1.95521, 0.213374, -1.67116, -0.420869, 1.01493, -1.68805, -0.187644, 4.38162 )
 
 [node name="Player" parent="." instance=ExtResource( 7 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.385644, 0 )
 
 [node name="Level" type="Spatial" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.0341249 )
 
 [node name="Wall" type="CSGBox" parent="Level"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5.05659 )
@@ -2772,9 +2774,9 @@ depth = 0.234934
 [node name="Platform" type="CSGBox" parent="Level"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0239773, -0.17608, 0.0317645 )
 use_collision = true
-width = 18.6099
+width = 10.0736
 height = 0.1
-depth = 18.4207
+depth = 10.3569
 material = SubResource( 1 )
 
 [node name="Timers" type="Node" parent="."]
